@@ -6,7 +6,7 @@
 - **To add a new account**, enter a new ID name for your new account and press "Add new account". Discord will relaunch and you will be prompt to login. 
 - **To switch between accounts**, simply press on the button on the interface with the account name you want to switch to. Discord will then relaunch with that account.
 
-`Please note that the program does not save your login credentials, but rather functions by storing your account data into different directories, and changes the current active accounts directory into discords original one, so Discord may read from there. `
+`Please note` that the program does not save your login credentials, but rather functions by storing your account data into different directories, and changes the current active accounts directory into discords original one, so Discord may read from there.
 
 ------------------------
 
